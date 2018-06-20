@@ -1,2 +1,2 @@
 # faceDetection
-SImmple face detection using opencv.
+Simple face detection using opencv.
